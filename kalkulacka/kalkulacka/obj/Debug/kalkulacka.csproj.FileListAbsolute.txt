@@ -1,0 +1,20 @@
+C:\Users\danny\Downloads\kalkulacka\kalkulacka\bin\Debug\kalkulacka.exe.config
+C:\Users\danny\Downloads\kalkulacka\kalkulacka\bin\Debug\kalkulacka.exe
+C:\Users\danny\Downloads\kalkulacka\kalkulacka\bin\Debug\kalkulacka.pdb
+C:\Users\danny\Downloads\kalkulacka\kalkulacka\obj\Debug\kalkulacka.csproj.AssemblyReference.cache
+C:\Users\danny\Downloads\kalkulacka\kalkulacka\obj\Debug\kalkulacka.Form1.resources
+C:\Users\danny\Downloads\kalkulacka\kalkulacka\obj\Debug\kalkulacka.Properties.Resources.resources
+C:\Users\danny\Downloads\kalkulacka\kalkulacka\obj\Debug\kalkulacka.csproj.GenerateResource.cache
+C:\Users\danny\Downloads\kalkulacka\kalkulacka\obj\Debug\kalkulacka.csproj.CoreCompileInputs.cache
+C:\Users\danny\Downloads\kalkulacka\kalkulacka\obj\Debug\kalkulacka.exe
+C:\Users\danny\Downloads\kalkulacka\kalkulacka\obj\Debug\kalkulacka.pdb
+S:\Pro2 programy\kalkulacka\kalkulacka\bin\Debug\kalkulacka.exe.config
+S:\Pro2 programy\kalkulacka\kalkulacka\bin\Debug\kalkulacka.exe
+S:\Pro2 programy\kalkulacka\kalkulacka\bin\Debug\kalkulacka.pdb
+S:\Pro2 programy\kalkulacka\kalkulacka\obj\Debug\kalkulacka.csprojAssemblyReference.cache
+S:\Pro2 programy\kalkulacka\kalkulacka\obj\Debug\kalkulacka.Form1.resources
+S:\Pro2 programy\kalkulacka\kalkulacka\obj\Debug\kalkulacka.Properties.Resources.resources
+S:\Pro2 programy\kalkulacka\kalkulacka\obj\Debug\kalkulacka.csproj.GenerateResource.cache
+S:\Pro2 programy\kalkulacka\kalkulacka\obj\Debug\kalkulacka.csproj.CoreCompileInputs.cache
+S:\Pro2 programy\kalkulacka\kalkulacka\obj\Debug\kalkulacka.exe
+S:\Pro2 programy\kalkulacka\kalkulacka\obj\Debug\kalkulacka.pdb
