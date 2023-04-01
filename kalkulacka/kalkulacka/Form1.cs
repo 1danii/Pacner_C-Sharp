@@ -42,7 +42,8 @@ namespace kalkulacka
             label2.Text = "0";
             label3.Text = "0";
         }
-
+        
+        //Dement si
         //Výpočty
         private void button11_Click(object sender, EventArgs e)
         {
